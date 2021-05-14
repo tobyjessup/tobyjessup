@@ -1,8 +1,6 @@
-### Hi there 👋
-
-I’m currently studying with [Makers](https://makers.tech)
-
 <!--
+Hi there 👋
+
 **tobyjessup/tobyjessup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,10 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Toby Jessup 👋 👨‍💻</h1>
 <h3 align="center">I'm a Junior Software Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobyjessup&label=Profile%20views&color=0e75b6&style=flat" alt="tobyjessup" /> </p>
+<h3 I’m currently studying with [Makers](https://makers.tech)</h3>
 
 <!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobyjessup&label=Profile%20views&color=0e75b6&style=flat" alt="tobyjessup" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobyjessup" alt="tobyjessup" /></a> </p>
 -->
 
