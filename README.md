@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Toby Jessup 👋 👨‍💻</h1>
-<h3 align="center">I'm a Junior Software Engineer</h3>
-<h3 I’m currently studying with [Makers](https://makers.tech)</h3>
+<h3 align="center">I'm a Junior Software Engineer
+  I’m currently studying with [Makers](https://makers.tech)</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobyjessup&label=Profile%20views&color=0e75b6&style=flat" alt="tobyjessup" /> </p>
